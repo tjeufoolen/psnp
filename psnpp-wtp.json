@@ -6,7 +6,7 @@
   "direction": "ascending",
   "removeGames": "completed",
   "note": "Want to play",
-  "url": "https://raw.githubusercontent.com/tjeufoolen/psnp/refs/heads/main/want-to-play.json",
+  "url": "https://raw.githubusercontent.com/tjeufoolen/psnppgl/refs/heads/main/psnpp-wtp.json",
   "games": [
     {
       "id": "2605",
@@ -91,35 +91,6 @@
       "platinumpct": 1.73,
       "completepct": 0.85,
       "timestamp": 1790108403567,
-      "psplus": false,
-      "tags": [],
-      "note": ""
-    },
-    {
-      "id": "36588",
-      "scrapetime": 1790108435548,
-      "title": "We Were Here",
-      "image": "https://img.psnprofiles.com/game/l/36588/63f18641-97fa-4e9a-929c-c730c1fca827.png",
-      "url": "https://psnprofiles.com/trophies/36588-we-were-here",
-      "points": 1335,
-      "platforms": {
-        "ps5": true,
-        "ps4": false,
-        "ps3": false,
-        "psvita": false,
-        "psvr": false,
-        "pc": false
-      },
-      "trophies": {
-        "platinum": 1,
-        "gold": 8,
-        "silver": 4,
-        "bronze": 13
-      },
-      "dlccount": 0,
-      "platinumpct": 66.88,
-      "completepct": 66.88,
-      "timestamp": 1790108434865,
       "psplus": false,
       "tags": [],
       "note": ""
@@ -1627,5 +1598,5 @@
     }
   ],
   "removeStartedGames": false,
-  "id": "46721d7a-ec83-43af-b737-615bfa40ce9c"
+  "id": "9818bf2a-efa8-4ce0-a196-d32beae7aa59"
 }

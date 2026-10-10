@@ -14,9 +14,10 @@ A gamelist can be exported as a JSON file and imported from a URL. That is what 
 
 ## Available gamelists
 
-| List                     | Description                                            | Games | Quick add                                                                                                                                                                                         |
-| ------------------------ | ------------------------------------------------------ | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [WTP](want-to-play.json) | Want to play: my backlog of games I still want to play | 56    | [Add to PSNP+](https://psnprofiles.com/#profile?hash=gamelists?import=https%253A%252F%252Fraw.githubusercontent.com%252Ftjeufoolen%252Fpsnppgl%252Frefs%252Fheads%252Fmain%252Fwant-to-play.json) |
+| List                          | Description                     | Quick add                                                                                                                                                                                          |
+| ----------------------------- | ------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [WTP](psnpp-wtp.json)         | My personal "Want to Play" list | [Add to PSNP+](https://psnprofiles.com/#profile?hash=gamelists?import=https%253A%252F%252Fraw.githubusercontent.com%252Ftjeufoolen%252Fpsnppgl%252Frefs%252Fheads%252Fmain%252Fpsnpp-wtp.json)     |
+| [Cleanup](psnpp-cleanup.json) | Cleanup (DLC and/or 100%)       | [Add to PSNP+](https://psnprofiles.com/#profile?hash=gamelists?import=https%253A%252F%252Fraw.githubusercontent.com%252Ftjeufoolen%252Fpsnppgl%252Frefs%252Fheads%252Fmain%252Fpsnpp-cleanup.json) |
 
 ### WTP (Want to play)
 
@@ -31,5 +32,5 @@ Sorted alphabetically, and games are removed from the list once completed. It mo
 You can also import manually by pasting the raw URL of a list into the import option on your gamelists page:
 
 ```
-https://raw.githubusercontent.com/tjeufoolen/psnppgl/refs/heads/main/want-to-play.json
+https://raw.githubusercontent.com/tjeufoolen/psnppgl/refs/heads/main/psnpp-wtp.json
 ```
