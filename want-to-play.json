@@ -3,10 +3,10 @@
   "timestamp": 1790108377562,
   "tags": [],
   "orderBy": "alphabetical",
-  "direction": "descending",
-  "removeGames": "started",
-  "note": "",
-  "url": "",
+  "direction": "ascending",
+  "removeGames": "completed",
+  "note": "Want to play",
+  "url": "https://raw.githubusercontent.com/tjeufoolen/psnp/refs/heads/main/want-to-play.json",
   "games": [
     {
       "id": "2605",
@@ -1627,5 +1627,5 @@
     }
   ],
   "removeStartedGames": false,
-  "id": "9f04da25-5265-4a9c-a9c4-4d0732456e25"
+  "id": "46721d7a-ec83-43af-b737-615bfa40ce9c"
 }
