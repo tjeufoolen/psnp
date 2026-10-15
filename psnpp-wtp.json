@@ -96,37 +96,8 @@
       "note": ""
     },
     {
-      "id": "37221",
-      "scrapetime": 1790108438004,
-      "title": "We Were Here Too",
-      "image": "https://img.psnprofiles.com/game/l/37221/f64bd9c6-fcf9-404a-a966-141b72ea485c.png",
-      "url": "https://psnprofiles.com/trophies/37221-we-were-here-too",
-      "points": 1290,
-      "platforms": {
-        "ps5": true,
-        "ps4": false,
-        "ps3": false,
-        "psvita": false,
-        "psvr": false,
-        "pc": false
-      },
-      "trophies": {
-        "platinum": 1,
-        "gold": 7,
-        "silver": 12,
-        "bronze": 0
-      },
-      "dlccount": 0,
-      "platinumpct": 70.56,
-      "completepct": 70.56,
-      "timestamp": 1790108437449,
-      "psplus": false,
-      "tags": [],
-      "note": ""
-    },
-    {
       "id": "36943",
-      "scrapetime": 1790108440544,
+      "scrapetime": 1792090705307,
       "title": "We Were Here Together",
       "image": "https://img.psnprofiles.com/game/l/36943/da1f53bd-6f38-4045-a0ad-1671a3d550fe.png",
       "url": "https://psnprofiles.com/trophies/36943-we-were-here-together",
@@ -146,8 +117,8 @@
         "bronze": 6
       },
       "dlccount": 0,
-      "platinumpct": 60.26,
-      "completepct": 60.26,
+      "platinumpct": 59.35,
+      "completepct": 59.35,
       "timestamp": 1790108439901,
       "psplus": false,
       "tags": [],
@@ -155,7 +126,7 @@
     },
     {
       "id": "20822",
-      "scrapetime": 1790108443241,
+      "scrapetime": 1792090707120,
       "title": "We Were Here Forever",
       "image": "https://img.psnprofiles.com/game/l/20822/582a1f9b-f930-443d-8f1b-ca12d792d8c3.png",
       "url": "https://psnprofiles.com/trophies/20822-we-were-here-forever",
@@ -175,8 +146,8 @@
         "bronze": 28
       },
       "dlccount": 0,
-      "platinumpct": 44.17,
-      "completepct": 44.17,
+      "platinumpct": 44.08,
+      "completepct": 44.08,
       "timestamp": 1790108442492,
       "psplus": false,
       "tags": [],
@@ -184,7 +155,7 @@
     },
     {
       "id": "23708",
-      "scrapetime": 1790108446045,
+      "scrapetime": 1792090708228,
       "title": "We Were Here Expeditions: The FriendShip",
       "image": "https://img.psnprofiles.com/game/l/23708/de91ff89-ee5e-492d-9147-3fdcd4b753f6.png",
       "url": "https://psnprofiles.com/trophies/23708-we-were-here-expeditions-the-friendship",
@@ -242,7 +213,7 @@
     },
     {
       "id": "2239",
-      "scrapetime": 1790108491126,
+      "scrapetime": 1792090811366,
       "title": "Call of Duty: Ghosts",
       "image": "https://img.psnprofiles.com/game/l/2239/2878e159-b958-4618-a9d5-2ddbf27ca35f.png",
       "url": "https://psnprofiles.com/trophies/2239-call-of-duty-ghosts",
@@ -261,8 +232,8 @@
         "silver": 10,
         "bronze": 77
       },
-      "dlccount": 4,
-      "platinumpct": 3.55,
+      "dlccount": 0,
+      "platinumpct": 3.54,
       "completepct": 0.6,
       "timestamp": 1790108491126,
       "psplus": false,
@@ -1309,7 +1280,7 @@
     },
     {
       "id": "27312",
-      "scrapetime": 1790519131740,
+      "scrapetime": 1792090681929,
       "title": "The House of Da Vinci 2",
       "image": "https://img.psnprofiles.com/game/l/27312/f91740a7-91d3-4775-ae1b-e41dd561f65b.png",
       "url": "https://psnprofiles.com/trophies/27312-the-house-of-da-vinci-2",
@@ -1329,7 +1300,7 @@
         "bronze": 9
       },
       "dlccount": 0,
-      "completepct": 16.95,
+      "completepct": 17.36,
       "timestamp": 1790109075006,
       "psplus": false,
       "tags": [],
@@ -1337,7 +1308,7 @@
     },
     {
       "id": "29557",
-      "scrapetime": 1790519133042,
+      "scrapetime": 1792090688061,
       "title": "The House of Da Vinci 3",
       "image": "https://img.psnprofiles.com/game/l/29557/33f9bc4e-de6b-4c38-a3fe-a9d01ffaab5c.png",
       "url": "https://psnprofiles.com/trophies/29557-the-house-of-da-vinci-3",
@@ -1357,7 +1328,7 @@
         "bronze": 17
       },
       "dlccount": 0,
-      "completepct": 11.36,
+      "completepct": 11.24,
       "timestamp": 1790109076379,
       "psplus": false,
       "tags": [],
@@ -1510,7 +1481,7 @@
     },
     {
       "id": "42709",
-      "scrapetime": 1790967927441,
+      "scrapetime": 1792090791427,
       "title": "Toem 2",
       "image": "https://img.psnprofiles.com/game/l/42709/bca00ed8-86df-44be-b1f8-b2ccae28e8a6.png",
       "url": "https://psnprofiles.com/trophies/42709-toem-2",
@@ -1530,8 +1501,8 @@
         "bronze": 8
       },
       "dlccount": 0,
-      "platinumpct": 47.96,
-      "completepct": 47.96,
+      "platinumpct": 76.2,
+      "completepct": 76.2,
       "timestamp": 1790967927441,
       "psplus": false,
       "tags": [],
@@ -1568,7 +1539,7 @@
     },
     {
       "id": "13765",
-      "scrapetime": 1790968291149,
+      "scrapetime": 1792090647437,
       "title": "Psychonauts 2",
       "image": "https://img.psnprofiles.com/game/l/13765/75c6513d-a053-46f1-9599-c5a4b9b27ba8.png",
       "url": "https://psnprofiles.com/trophies/13765-psychonauts-2",
@@ -1589,14 +1560,190 @@
       },
       "region": "EU",
       "dlccount": 0,
-      "platinumpct": 34.99,
-      "completepct": 34.99,
+      "platinumpct": 34.94,
+      "completepct": 34.94,
       "timestamp": 1790968291149,
+      "psplus": false,
+      "tags": [],
+      "note": ""
+    },
+    {
+      "id": "6834",
+      "scrapetime": 1792090147248,
+      "title": "Call of Duty: WWII",
+      "image": "https://img.psnprofiles.com/game/l/6834/24c557e5-8058-4018-b5fa-1862bf7529f5.png",
+      "url": "https://psnprofiles.com/trophies/6834-call-of-duty-wwii",
+      "points": 2130,
+      "platforms": {
+        "ps5": false,
+        "ps4": true,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 2,
+        "silver": 22,
+        "bronze": 66
+      },
+      "dlccount": 0,
+      "platinumpct": 1.39,
+      "completepct": 0.25,
+      "timestamp": 1792090146648,
+      "psplus": false,
+      "tags": [],
+      "note": ""
+    },
+    {
+      "id": "12183",
+      "scrapetime": 1792090167990,
+      "title": "Control",
+      "image": "https://img.psnprofiles.com/game/l/12183/f3d4bf59-8e9b-4f85-9dbd-0aff709dc27d.png",
+      "url": "https://psnprofiles.com/trophies/12183-control",
+      "points": 1740,
+      "platforms": {
+        "ps5": true,
+        "ps4": false,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 3,
+        "silver": 14,
+        "bronze": 50
+      },
+      "region": "EU",
+      "dlccount": 0,
+      "platinumpct": 32.94,
+      "completepct": 12.17,
+      "timestamp": 1792090167990,
+      "psplus": false,
+      "tags": [],
+      "note": ""
+    },
+    {
+      "id": "3634",
+      "scrapetime": 1792090219896,
+      "title": "Batman: Arkham Knight",
+      "image": "https://img.psnprofiles.com/game/l/3634/e46cc991-97cc-4aa2-bfc5-94326acb437a.png",
+      "url": "https://psnprofiles.com/trophies/3634-batman-arkham-knight",
+      "points": 2415,
+      "platforms": {
+        "ps5": false,
+        "ps4": true,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 1,
+        "silver": 27,
+        "bronze": 81
+      },
+      "dlccount": 0,
+      "platinumpct": 6.62,
+      "completepct": 0.92,
+      "timestamp": 1792090219896,
+      "psplus": false,
+      "tags": [],
+      "note": ""
+    },
+    {
+      "id": "5146",
+      "scrapetime": 1792090274276,
+      "title": "Batman: The Telltale Series",
+      "image": "https://img.psnprofiles.com/game/l/5146/9a9a286c-a4df-4ad1-acc0-66608d82c868.png",
+      "url": "https://psnprofiles.com/trophies/5146-batman-the-telltale-series",
+      "points": 1275,
+      "platforms": {
+        "ps5": false,
+        "ps4": true,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 5,
+        "silver": 10,
+        "bronze": 15
+      },
+      "dlccount": 0,
+      "platinumpct": 52.84,
+      "completepct": 52.85,
+      "timestamp": 1792090274277,
+      "psplus": false,
+      "tags": [],
+      "note": ""
+    },
+    {
+      "id": "9619",
+      "scrapetime": 1792090391212,
+      "title": "The Walking Dead: The Telltale Definitive Series",
+      "image": "https://img.psnprofiles.com/game/l/9619/84f66912-a548-47c9-9d97-eabda3423e61.png",
+      "url": "https://psnprofiles.com/trophies/9619-the-walking-dead-the-telltale-definitive-series",
+      "points": 1275,
+      "platforms": {
+        "ps5": false,
+        "ps4": true,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 6,
+        "silver": 12,
+        "bronze": 5
+      },
+      "region": "EU",
+      "dlccount": 0,
+      "platinumpct": 42.1,
+      "completepct": 42.1,
+      "timestamp": 1792090391212,
+      "psplus": false,
+      "tags": [],
+      "note": ""
+    },
+    {
+      "id": "3087",
+      "scrapetime": 1792090411586,
+      "title": "The Wolf Among Us",
+      "image": "https://img.psnprofiles.com/game/l/3087/afb3887e-9a06-49e8-ad05-64545422f60f.png",
+      "url": "https://psnprofiles.com/trophies/3087-the-wolf-among-us",
+      "points": 1275,
+      "platforms": {
+        "ps5": false,
+        "ps4": true,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 5,
+        "silver": 5,
+        "bronze": 25
+      },
+      "dlccount": 0,
+      "platinumpct": 54.32,
+      "completepct": 54.33,
+      "timestamp": 1792090411586,
       "psplus": false,
       "tags": [],
       "note": ""
     }
   ],
   "removeStartedGames": false,
-  "id": "9818bf2a-efa8-4ce0-a196-d32beae7aa59"
+  "id": "af0c55e4-49f9-422e-a6d5-4799ec2eeb61"
 }
